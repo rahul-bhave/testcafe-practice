@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "chai": "4.3.6",
-    "testcafe": "15.1.317922"
+    "testcafe": "^1.18.4"
   },
   "description": "TestCafé end-to-end test automation boilerplate. Using Commonjs, Chai and Expect.",
   "devDependencies": {
